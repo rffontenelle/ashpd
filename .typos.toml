@@ -2,6 +2,7 @@
 # Ignore false-positives
 eis = "eis"
 datas = "datas"
+writeable = "writable"
 
 [files]
 # Ignore translation files in demo/client/po/
